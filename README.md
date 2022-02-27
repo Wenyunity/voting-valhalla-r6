@@ -1,6 +1,8 @@
 # voting-valhalla-r6
 Program used for calculating Voting Valhalla R6 Results.
 
+Code was done in Python 3.9; Python 3.8 required for geometric mean.
+
 Coma Contestant results were calculated using the meandian.
 
 The main results were calculated using the versus formula with **Ranked Pairs** voting used on the result matrix (done by hand.)
